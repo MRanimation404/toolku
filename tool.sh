@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 # tool sampah gue memang jelek monyet
 # tapi segini juga gue bisa bikin nJiinkk
 # dan lo Mau kepoin tool gue ..?
